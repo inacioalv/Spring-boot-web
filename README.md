@@ -24,6 +24,18 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Aplicação abordado a utilizão de mapeamento objeto-relacional com Api JPA utilizando como framework spring boot.
 
 
+## :hammer: Para executar o projeto no terminal, digite o seguinte comando:
+
+```shell script
+mvn spring-boot:run 
+```
+
+## Após executar o comando acima, basta apenas abrir o seguinte endereço e visualizar a execução do projeto:
+
+```
+http://localhost:8080/api/v1/people
+```
+
 
 ## 📝 Licença
 
