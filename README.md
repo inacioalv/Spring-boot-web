@@ -5,6 +5,7 @@
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-DataBase">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 
@@ -23,6 +24,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Aplicação abordado a utilizão de mapeamento objeto-relacional com Api JPA utilizando como framework spring boot.
 
+
+#DataBase
+<a href="https://github.com/chinnonsantos/sql-paises-estados-cidades/tree/master/PostgreSQL">Data</a>
+
+CREATE EXTENSION cube; 
+CREATE EXTENSION earthdistance;
 
 ## :hammer: Para executar o projeto no terminal, digite o seguinte comando:
 
